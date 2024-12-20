@@ -41,7 +41,7 @@
     "rechoir": "^0.8.0",
     "semver": "^7.6.2",
     "webpack-bundle-analyzer": "4.6.1",
-    "yargs": "17.6.2"
+    "yargs": "17.7.2"
   },
   "devDependencies": {
     "@rslib/core": "0.0.15",
